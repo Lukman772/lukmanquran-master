@@ -3,7 +3,7 @@
     <div class="container text-center">
       <br>
       <h1 class="mt-5 display-4 fw-bolder">Web Al-Quran Lukman</h1>
-      <p class="lead">Web Quran Pertama Saya</p>
+      <p class="lead">Dengan Nama Allah</p>
     </div>
   </div>
   <div class="text-sm-center mt-5">
